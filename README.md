@@ -1,2 +1,2 @@
 # YourShow
-This is a demo for ticket booking
+This is a demo for movie ticket booking
